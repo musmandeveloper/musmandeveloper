@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Usman</h1>
 
-<h3 align="center">I am a passionate developer with expertise in Web Development, App Development, and Software Development. With a Bachelor's degree in Computer Science and a robust skill set in WordPress, Laravel, Flutter, Python, and Machine Learning, I strive to create innovative solutions that drive success.</h3>
+<h3 align="center">I am a passionate developer with expertise in Web Development, App Development, and Software Development. With a Bachelor's degree in Computer Science and a robust skill set in WordPress, Shopify, Laravel, Flutter, Python, and Machine Learning, I strive to create innovative solutions that drive success.</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=musmandeveloper&show_icons=true&locale=en&layout=compact" alt="musmandeveloper" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=musmandeveloper&show_icons=true&locale=en" alt="musmandeveloper" /></p>
