@@ -19,8 +19,8 @@
 
 
 
-- 🌱 I’m currently learning **JavaScript**
-- 💬 Ask me about **HTML, CSS**
+- 🌱 I’m currently learning **React JS**
+- 💬 Ask me about **HTML, CSS, JS, WordPress, Shopify**
 - 📫 How to reach me **usmanedu8250998@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
