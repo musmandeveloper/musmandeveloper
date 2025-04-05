@@ -36,6 +36,6 @@
 
 
 <h3 align="left">Support Me:</h3>  
-<p><a href="buymeacoffee.com/musmandeveloper">Buy Me a Coffee</a></p>
+<p><a href="https://buymeacoffee.com/musmandeveloper">Buy Me a Coffee</a></p>
 
 
